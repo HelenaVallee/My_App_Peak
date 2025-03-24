@@ -30,11 +30,6 @@ PeakOptimizer analyzes real-time **work behavior, cognitive engagement, and phys
 ✔ **Phase 2:** AI learns user habits + Adaptive break scheduling.  
 ✔ **Phase 3:** Integration with wearables & real-time posture tracking.  
 
-## 🛠️ How to Run the MVP Locally  
-1. Clone this repository:  
-   ```bash
-   git clone https://github.com/yourusername/PeakOptimizer.git  
-   cd PeakOptimizer
 
 ## Features
 
